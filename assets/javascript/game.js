@@ -60,6 +60,7 @@ $(document).ready(function () {
             console.log(win);
             $("#wins").html("Wins: " + win);
             gameReset();
+            
 
             
             
