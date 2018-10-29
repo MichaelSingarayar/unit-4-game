@@ -1,6 +1,48 @@
+body{
+    font-family: 'Russo One', sans-serif;
+    color: red;
+    
+
+}
+
+
+.background{
+    background-image: url(../images/color-crescent-536330-unsplash.jpg);
+    background-size: 100%;
+}
+
+.instructions {
+	border: 2px solid black;
+	padding: 2%;
+	background-color: white;
+    opacity: 0.75; 
+}
+
+
 img {
     width: 200px; 
     height: 200px;
     padding: 0;
     border: 0;
+    
+    
+
 }
+
+.num {
+    border: 2px solid black;
+	padding: 2%;
+	background-color: white;
+    opacity: 0.75;
+
+}
+.score {
+    border: 2px solid black;
+	padding: 2%;
+	background-color: white;
+    opacity: 0.75;
+
+}
+
+
+
